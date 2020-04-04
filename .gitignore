@@ -1,6 +1,8 @@
-.vs
-.vscode
-build
+.vs/
+.vscode/
+build/
+ARM/
 *.elf
 *.nro
 *.nacp
+*.user
